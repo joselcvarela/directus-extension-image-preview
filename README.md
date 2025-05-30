@@ -2,7 +2,7 @@
 
 This Directus custom interface allows to preview images based on other fields.
 
-<video src="/docs/directus-extension-image-preview-overview.mp4" width="300" height="300" autoplay muted playsinline></video>
+![Directus Extension Image Preview Overview](/docs/directus-extension-image-preview-overview.png)
 
 ## Install
 
